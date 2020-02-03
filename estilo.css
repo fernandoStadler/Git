@@ -1,11 +1,34 @@
 body{
 
     margin: 0;
+  
 }
 
 .conteudo{
 
     margin-top: 50px;
   text-align: center;
+
+}
+
+
+#header{
+
+    background-color: blueviolet;
+  
+
+}
+
+
+#footer{
+
+    margin-top: 400px;
+    background-color: blueviolet;
+  
+}
+
+#texto{
+
+    color: rgb(255, 255, 255);
 
 }
